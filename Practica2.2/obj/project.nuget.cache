@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5Dnhb/uIKM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianfl\\Desktop\\Practica-2.2-main\\Practica2.2\\Practica2.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianfl\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.0\\system.diagnostics.eventlog.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
